@@ -1,0 +1,23 @@
+/* Style for recipes page */
+
+h1 {
+    background-color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    font-size: 30px;
+    color: white;
+    background-color: darkslategrey;
+}
+
+il {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
